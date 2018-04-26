@@ -4,3 +4,4 @@ def eggs():
     print("local "+ str(spam))
 print ('global '+ str(spam))
 eggs()
+print("JIgar")
